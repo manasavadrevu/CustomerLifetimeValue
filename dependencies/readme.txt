@@ -1,0 +1,1 @@
+Please rename the json-simple-1.1.1.txt to json-simple-1.1.1.jar to make use of this jar file.
